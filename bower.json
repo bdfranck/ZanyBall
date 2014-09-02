@@ -1,0 +1,10 @@
+{
+	"name": "zany-ball",
+	"version": "1.0",
+	"private": "true",
+	"dependencies": {
+		"pixi.js": "latest",
+		"require": "latest",
+		"jquery": "latest"
+	}
+}
